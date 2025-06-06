@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying<br>👯 I’m looking to collaborate on various project's related to AI<br>🌱 I’m currently learning MCA from SPPU <br>💬 Looking for Internship & Job<br>⚡ VIVIBHA (Best Research Paper) - 2024
+🔭 I’m currently studying<br>👯 I’m looking to collaborate on various project's related to AI<br>🌱 I’m currently pursuing MCA from SPPU <br>💬 Looking for Internship & Job<br>⚡ VIVIBHA (Best Research Paper) - 2024
 
 
 ## 🌐 Socials:
