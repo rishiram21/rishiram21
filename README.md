@@ -18,6 +18,14 @@
 
 ---
 
+### 🎯 Core Focus & Expertise
+
+- 🧠 **Machine Learning & Predictive Modeling:** Data cleaning, exploratory analysis (EDA), feature engineering, and predictive algorithms.
+- ⚡ **Full-Stack Development:** Scalable backend microservices with Java/Spring Boot and responsive frontends with React.js.
+- 📊 **Data Engineering & Analytics:** Database management (MySQL, Redis), data pipeline hygiene, and visualization via Power BI.
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**  
@@ -46,10 +54,10 @@
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **FIFA 2026 Winner Prediction** | Python, scikit-learn, Power BI | ML model using Monte Carlo simulations to predict World Cup outcomes based on historical match data. |
-| **Gharkul — Rental & Buying App** | React.js, Spring Boot, Redis, MySQL | Full-stack house rental/buying web application integrated with Redis caching for high performance. |
-| **OkBikes — Vehicle Rental** | React.js, Spring Boot, MySQL | End-to-end vehicle rental platform featuring real-time booking and interactive dashboard. |
-| **Crystara Sugar** | Web Development | Professional corporate site designed for a manufacturing enterprise. |
+| **FIFA 2026 Winner Prediction** | Python, scikit-learn, Power BI | ML prediction model built with Monte Carlo simulation algorithms. |
+| **Gharkul — Rental & Buying App** | React.js, Spring Boot, Redis, MySQL | Full-stack house rental platform with Redis caching for speed. |
+| **OkBikes — Vehicle Rental** | React.js, Spring Boot, MySQL | Vehicle rental platform featuring real-time booking management. |
+| **Crystara Sugar** | HTML, CSS, JavaScript | Corporate website built for a manufacturing enterprise. |
 
 ---
 
@@ -60,12 +68,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiram21&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
-
-<p align="center">
-  <img src="https://mojo-counter.netlify.app/api/hit?id=rishiram21&label=Profile%20Views&color=4285F4" alt="Visitor Count" />
-</p>
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rishiram21&icon=0&color=0" alt="Visitor Count" />
-</p>
+### 📬 Let's Connect!
+
+If you are looking to collaborate on open-source AI projects, hire for ML/Software roles, or discuss data analytics, feel free to reach out via [LinkedIn](https://linkedin.com/in/rishiram21) or email me at `rishispace21@gmail.com`.
