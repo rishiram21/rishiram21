@@ -55,8 +55,8 @@
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
 | **FIFA 2026 Winner Prediction** | Python, scikit-learn, Power BI | ML prediction model built with Monte Carlo simulation algorithms. |
-| **Gharkul — Rental & Buying App** | React.js, Spring Boot, Redis, MySQL | Full-stack house rental platform with Redis caching for speed. |
-| **OkBikes — Vehicle Rental** | React.js, Spring Boot, MySQL | Vehicle rental platform featuring real-time booking management. |
+| **Gharkul - Real Estate** | React.js, Spring Boot, Redis, MySQL | Full-stack house rental platform with Redis caching for speed. |
+| **OkBikes - Vehicle Rental** | React.js, Spring Boot, MySQL | Vehicle rental platform featuring real-time booking management. |
 | **Crystara Sugar** | HTML, CSS, JavaScript | Corporate website built for a manufacturing enterprise. |
 
 ---
