@@ -60,10 +60,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiram21&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishiram21&theme=dark&hide_border=true" width="97%" />
-</p>
 
+<p align="center">
+  <img src="https://mojo-counter.netlify.app/api/hit?id=rishiram21&label=Profile%20Views&color=4285F4" alt="Visitor Count" />
+</p>
 ---
 
 <p align="center">
